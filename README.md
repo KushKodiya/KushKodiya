@@ -1,38 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:4C1D95,65:6D28D9,100:8B5CF6&height=230&section=header&text=Your%20Name&fontSize=54&fontColor=FFFFFF&fontAlignY=33&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:4C1D95,65:6D28D9,100:8B5CF6&height=230&section=header&text=Kush%20Kodiya&fontSize=54&fontColor=FFFFFF&fontAlignY=33&desc=Software%20Engineer%20%C2%B7%20Data%20Science%20Researcher%20%C2%B7%20Full%20Stack%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%" />
 
-<a href="https://your-portfolio.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=55&lines=Architecting+Production-Grade+AI+Systems;Designing+Scalable+Distributed+Backends;Shipping+Enterprise+Full+Stack+Products;Engineering+for+Depth%2C+Not+Noise" alt="Typing SVG" />
+<a href="https://kushkodiya.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=55&lines=Software+Engineering+Intern+%40+Reliance+Matrix;Computer+Science+%40+Purdue+University;Machine+Learning+%2B+Full+Stack+Product+Engineering;Autonomous+Systems%2C+Sensor+Fusion%2C+LLM+Applications" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=flat-square&labelColor=0D1117&logo=graduation-cap&logoColor=A78BFA)
-![University](https://img.shields.io/badge/University-Your%20University-6366F1?style=flat-square&labelColor=0D1117&logo=academia&logoColor=A78BFA)
-![CGPA](https://img.shields.io/badge/CGPA-9.2%20%2F%2010-8B5CF6?style=flat-square&labelColor=0D1117&logo=googlescholar&logoColor=A78BFA)
-![Location](https://img.shields.io/badge/Based%20in-India-4C1D95?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=A78BFA)
+![Degree](https://img.shields.io/badge/B.S.-Computer%20Science-7C3AED?style=flat-square&labelColor=0D1117&logo=googlescholar&logoColor=A78BFA)
+![University](https://img.shields.io/badge/Purdue%20University-College%20of%20Science-6366F1?style=flat-square&labelColor=0D1117&logo=academia&logoColor=A78BFA)
+![GPA](https://img.shields.io/badge/GPA-3.64%20%2F%204.00-8B5CF6?style=flat-square&labelColor=0D1117&logo=leaderprice&logoColor=A78BFA)
+![Minors](https://img.shields.io/badge/Minors-Mathematics%20%26%20Statistics-5B21B6?style=flat-square&labelColor=0D1117&logo=wolframmathematica&logoColor=A78BFA)
+![Graduation](https://img.shields.io/badge/Expected-December%202027-6D28D9?style=flat-square&labelColor=0D1117&logo=googlecalendar&logoColor=A78BFA)
+![Location](https://img.shields.io/badge/Based%20in-Philadelphia%2C%20PA-4C1D95?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=A78BFA)
 
 <br/>
 
-<a href="https://your-portfolio.com">
+<a href="https://kushkodiya.com">
   <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/kush-kodiya-aa73462aa/">
   <img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:kushkodiya42@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/KushKodiya">
   <img src="https://img.shields.io/badge/GITHUB-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/github/stars/yourusername?label=TOTAL%20STARS&style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=white" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=KushKodiya&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/KushKodiya?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/KushKodiya?label=TOTAL%20STARS&style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=white" alt="Stars" />
 
 </div>
 
@@ -40,11 +42,11 @@
 
 ## About
 
-I am a **Software Engineer** who builds systems that survive production — not demos that survive a slide deck. My work sits at the intersection of **distributed backend architecture**, **applied machine learning**, and **end-to-end product engineering**, with a bias toward correctness, observability, and measurable outcomes.
+I'm a **Computer Science student at Purdue University** with minors in Mathematics and Statistics, and I build software that has to hold up outside a notebook — backend services running in production, research pipelines that other people depend on, and full stack products that real users touch.
 
-I design and ship services that handle real traffic under real constraints: latency budgets, cost ceilings, failure domains, and security reviews. On the **AI/ML** side, I take models from research notebooks into hardened inference pipelines — quantized, cached, evaluated, monitored, and versioned. On the **full stack** side, I own the entire vertical slice: schema design, API contracts, state management, rendering strategy, and the CI/CD path that gets it live.
+My work splits across three areas. In **software engineering**, I currently ship Java backend services and React interfaces for an enterprise insurance platform at Reliance Matrix, deploying containerized services to Kubernetes through Jenkins CI/CD. In **applied machine learning and data science**, I've built survival modeling pipelines on messy oncology trial data at Johnson & Johnson, where the hard part was never the model — it was turning unstructured clinical records into a schema that could be reasoned about, then cutting 300+ candidate features down to a set small enough to defend. In **autonomous systems**, I built GPS and IMU sensor fusion for an autonomous racing kart, implementing real-time Kalman filter localization and feeding high-fidelity position data into a path planning framework.
 
-My engineering philosophy is deliberately unglamorous. I read the source before the blog post. I benchmark before I optimize. I write the migration plan before the feature. I believe that **product thinking is an engineering skill** — the best architecture is the one that maps cleanly to what users actually need, degrades gracefully when it fails, and can be handed to another engineer without a two-hour explanation.
+The through-line is that I like problems where the data is bad, the constraints are real, and the result has to actually run. I care about clean schema design, reproducible pipelines, and code that the next person can pick up without a walkthrough. My side projects tend to start because something annoyed me — a Slack bot exists because tracking internship postings by hand was miserable, a poker settlement app exists because splitting payouts at the table is worse math than it looks.
 
 <table>
 <tr>
@@ -52,24 +54,24 @@ My engineering philosophy is deliberately unglamorous. I read the source before 
 
 **Core Strengths**
 
-- Distributed systems & backend architecture
-- Applied ML, LLM systems & RAG infrastructure
-- Full stack product engineering, end to end
-- Cloud-native design on AWS & GCP
-- Performance profiling & cost optimization
-- Secure-by-default API and data design
+- Full stack development across React, Next.js, and Node.js
+- Backend engineering in Java, Python, and TypeScript
+- Applied ML: feature selection, survival analysis, evaluation
+- Data engineering on unstructured and messy real-world sources
+- Sensor fusion, Kalman filtering, real-time localization
+- LLM applications: RAG systems and retrieval-grounded chat
 
 </td>
 <td width="50%" valign="top">
 
 **How I Work**
 
-- Design documents before implementation
-- Test coverage as a non-negotiable baseline
-- Instrumentation, tracing, and SLO ownership
-- Incremental, reversible, reviewable changes
-- Clear written communication over meetings
-- Mentoring and rigorous code review culture
+- Schema and data model design before feature work
+- Reproducible pipelines over one-off analysis scripts
+- Statistical rigor — regularization, generalization checks
+- Containerized, CI/CD-deployed services by default
+- Debugging across mixed Linux and Windows environments
+- Shipping projects end to end, not stopping at prototype
 
 </td>
 </tr>
@@ -79,12 +81,12 @@ My engineering philosophy is deliberately unglamorous. I read the source before 
 
 ### Open To
 
-![Open To](https://img.shields.io/badge/Software%20Engineering%20Roles-7C3AED?style=flat-square&labelColor=0D1117)
-![Open To](https://img.shields.io/badge/AI%20%2F%20ML%20Engineering-6366F1?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Software%20Engineering%20Internships-7C3AED?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Machine%20Learning%20%26%20Data%20Science-6366F1?style=flat-square&labelColor=0D1117)
 ![Open To](https://img.shields.io/badge/Full%20Stack%20Engineering-8B5CF6?style=flat-square&labelColor=0D1117)
 ![Open To](https://img.shields.io/badge/Backend%20%26%20Platform%20Engineering-4C1D95?style=flat-square&labelColor=0D1117)
-![Open To](https://img.shields.io/badge/Open%20Source%20Collaboration-6D28D9?style=flat-square&labelColor=0D1117)
-![Open To](https://img.shields.io/badge/Research%20Engineering-5B21B6?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Research%20Opportunities-6D28D9?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Open%20Source%20Collaboration-5B21B6?style=flat-square&labelColor=0D1117)
 
 </div>
 
@@ -96,25 +98,25 @@ My engineering philosophy is deliberately unglamorous. I read the source before 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,go,cs,r,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,cs,cpp,c,r,html,css&theme=dark" alt="Languages" />
 
 <br/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vite,threejs,figma&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js&theme=dark" alt="Frontend" />
 
 <br/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql,postgres,mysql,mongodb,redis,prisma,kafka&theme=dark" alt="Backend and Databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,dotnet,postgres,mongodb,sqlite,supabase,firebase&theme=dark" alt="Backend and Databases" />
 
 <br/>
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,nginx,linux,git,grafana,prometheus,vercel&theme=dark" alt="Cloud DevOps and Tooling" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gcp,azure,git,github,linux,vscode,visualstudio,idea,vim&theme=dark" alt="Cloud DevOps and Tooling" />
 
 </div>
 
@@ -126,15 +128,15 @@ My engineering philosophy is deliberately unglamorous. I read the source before 
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Machine Learning Foundations** | `▰▰▰▰▰▰▰▰▰▱` | Supervised & unsupervised learning, ensemble methods, feature engineering, cross-validation strategy, bias–variance diagnosis, calibrated probability outputs |
-| **Deep Learning** | `▰▰▰▰▰▰▰▰▰▱` | CNNs, RNNs, Transformers, attention mechanisms, transfer learning, mixed-precision training, distributed multi-GPU training with DDP |
-| **Large Language Models** | `▰▰▰▰▰▰▰▰▰▰` | Prompt architecture, LoRA / QLoRA fine-tuning, instruction tuning, structured output enforcement, function calling, guardrails and eval harnesses |
-| **RAG & Vector Infrastructure** | `▰▰▰▰▰▰▰▰▰▰` | Hybrid dense–sparse retrieval, chunking strategy, reranking, HNSW / IVF-PQ indexing, query rewriting, grounding and citation integrity |
-| **Natural Language Processing** | `▰▰▰▰▰▰▰▰▱▱` | Tokenization, NER, semantic similarity, summarization, classification pipelines, multilingual embedding alignment |
-| **Computer Vision** | `▰▰▰▰▰▰▰▰▱▱` | Object detection, segmentation, real-time video inference, OCR pipelines, augmentation strategy, edge-optimized models |
-| **MLOps & Model Serving** | `▰▰▰▰▰▰▰▰▰▱` | Experiment tracking, model registries, ONNX / TensorRT conversion, batching and KV-cache tuning, drift detection, canary rollouts |
-| **Data Engineering for ML** | `▰▰▰▰▰▰▰▰▱▱` | Streaming and batch pipelines, feature stores, schema evolution, deduplication, labeling workflows, reproducible dataset versioning |
-| **Applied Statistics & Evaluation** | `▰▰▰▰▰▰▰▰▱▱` | Hypothesis testing, A/B experiment design, offline vs online metric alignment, LLM-as-judge evaluation, regression suites |
+| **Statistical Modeling & Survival Analysis** | `▰▰▰▰▰▰▰▰▱▱` | Cox Proportional Hazards modeling, censored data handling, hazard ratio interpretation, generalization testing across held-out cohorts |
+| **Feature Engineering & Selection** | `▰▰▰▰▰▰▰▰▱▱` | LASSO regularization, dimensionality reduction from 300+ candidates to compact predictor sets, multicollinearity diagnosis, coefficient stability analysis |
+| **Data Wrangling & Schema Design** | `▰▰▰▰▰▰▰▰▰▱` | Standardizing highly unstructured clinical trial records into unified schemas, normalization, deduplication, reproducible transformation pipelines |
+| **Classical Machine Learning** | `▰▰▰▰▰▰▰▰▱▱` | Regression and classification workflows in scikit-learn, cross-validation strategy, regularization tuning, bias–variance diagnosis |
+| **LLM Applications & RAG** | `▰▰▰▰▰▰▰▱▱▱` | Retrieval-augmented chat over wiki corpora and live game-state queries, context construction, grounding responses in indexed source data |
+| **Sensor Fusion & State Estimation** | `▰▰▰▰▰▰▰▰▱▱` | Kalman filtering over combined GPS and IMU streams, NTRIP RTK corrections, real-time localization for autonomous kart navigation |
+| **Reinforcement Learning** | `▰▰▰▰▰▱▱▱▱▱` | Gymnasium environments, agent–environment loop design, policy evaluation, reward shaping fundamentals |
+| **Data Acquisition & Automation** | `▰▰▰▰▰▰▰▰▰▱` | Playwright and BeautifulSoup scraping at scale, headless browser orchestration, rate handling, deduplication and alert-noise reduction |
+| **Analysis & Visualization** | `▰▰▰▰▰▰▰▰▱▱` | pandas, NumPy, Matplotlib, exploratory analysis on high-dimensional datasets, statistical summarization for non-technical stakeholders |
 
 </div>
 
@@ -142,18 +144,16 @@ My engineering philosophy is deliberately unglamorous. I read the source before 
 
 **Frameworks & Tooling**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0D1117)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=0D1117)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black&labelColor=0D1117)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white&labelColor=0D1117)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white&labelColor=0D1117)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square&logo=openaigym&logoColor=white&labelColor=0D1117)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=0D1117)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white&labelColor=0D1117)
+![Slack Bolt](https://img.shields.io/badge/Slack%20Bolt-4A154B?style=flat-square&logo=slack&logoColor=white&labelColor=0D1117)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=0D1117)
 
 </div>
 
@@ -162,102 +162,82 @@ My engineering philosophy is deliberately unglamorous. I read the source before 
 ## Featured Projects
 
 <details>
-<summary><b>&nbsp;NeuralOps — LLM Observability & Evaluation Platform</b></summary>
+<summary><b>&nbsp;Willy's Apprentice — LLM-Powered Stardew Valley Companion Mod</b></summary>
 
 <br/>
 
-A production observability layer for LLM applications. NeuralOps traces every model call end to end, scores output quality against versioned evaluation suites, detects semantic drift across deployments, and surfaces cost and latency regressions before they reach users.
+A published Stardew Valley mod that pairs a fully indexed in-game item reference with a retrieval-augmented chatbot and an autonomous fishing agent. The mod answers gameplay questions grounded in wiki data and live save-state, then acts on the game directly when asked to.
 
 | Attribute | Detail |
 | :--- | :--- |
-| **Stack** | `Python` · `FastAPI` · `PostgreSQL` · `ClickHouse` · `Redis` · `Kafka` · `Next.js` · `TypeScript` · `Docker` · `Kubernetes` · `AWS` |
-| **Scale** | 40M+ traced spans ingested monthly · 1,200 req/s sustained ingestion · 3.4 TB of time-series telemetry under active retention |
-| **Performance** | p95 ingestion latency **38 ms** · dashboard query p99 reduced from 2.6 s to **190 ms** via columnar rollups and pre-aggregation |
-| **Security** | Per-tenant row-level isolation · AES-256 encryption at rest · automatic PII redaction pre-persistence · scoped API keys with rotation · full audit trail |
-| **Impact** | Cut mean detection time for model regressions from 4 days to **under 20 minutes**; reduced monthly inference spend by **31%** through cache and routing insights |
-| **Repository** | [github.com/yourusername/neuralops](https://github.com/yourusername/neuralops) |
+| **Stack** | `C#` · `Python` · `Flask` · `SMAPI` · `LLM / RAG` · `HTML` |
+| **Scale** | Indexes **100%** of the Stardew Valley item catalog from a compiled dataset · serves both static wiki knowledge and dynamic save-state queries |
+| **Performance** | In-game UI lookups resolve without leaving the game loop · retrieval layer scopes context to relevant catalog entries rather than passing the full corpus |
+| **Security** | LLM credentials isolated from mod distribution via local Flask service · no player save data transmitted beyond the local retrieval boundary |
+| **Impact** | Published to Nexus Mods and available to the public modding community · removes the constant alt-tab to the wiki that defines the base game experience |
+| **Repository** | [github.com/KushKodiya/WillysApprentice](https://github.com/KushKodiya/WillysApprentice) · [Nexus Mods Release](https://www.nexusmods.com/stardewvalley/mods/49080) |
 
-The central engineering problem was ingesting high-cardinality trace data without letting query cost grow linearly with volume. I separated the write path from the read path: Kafka absorbs bursty ingestion, a batching consumer writes to ClickHouse in compressed columnar blocks, and materialized rollups pre-compute the aggregations the dashboard actually asks for. Evaluation runs are treated as first-class versioned artifacts, so any score is reproducible against the exact prompt, model revision, and dataset snapshot that produced it.
+The interesting engineering here was bridging three runtimes that don't naturally talk to each other. The mod itself is C# running inside the game's modding framework; the retrieval and language layer is Python behind Flask; and the fishing agent has to read game state, evaluate season and weather conditions against a goal, then drive actual C# input events back into the running game. Getting the chatbot to answer correctly meant grounding it in two distinct sources — a static compiled wiki dataset for game mechanics, and live save-state queries for anything about the player's specific situation — because a model answering from memory alone gets Stardew's item and recipe details wrong constantly.
 
 </details>
 
 <details>
-<summary><b>&nbsp;Atlas Commerce — Distributed E-Commerce Platform</b></summary>
+<summary><b>&nbsp;ChipCount — Full Stack Poker Settlement Platform</b></summary>
 
 <br/>
 
-An event-driven commerce backend built around strict inventory correctness. Atlas handles catalog, cart, pricing, checkout, payments, and fulfillment as independently deployable services coordinated through a saga-based transaction layer.
+A poker session management platform that handles game hosting, player tracking, and the part everyone gets wrong at the table: settling up. ChipCount computes minimized payout paths across all players instead of forcing a chain of individual transfers.
 
 | Attribute | Detail |
 | :--- | :--- |
-| **Stack** | `Go` · `Node.js` · `TypeScript` · `PostgreSQL` · `Redis` · `Kafka` · `Elasticsearch` · `React` · `Next.js` · `Terraform` · `Kubernetes` · `AWS` |
-| **Scale** | 180K+ SKUs · 25K concurrent sessions at peak · 9M events/day across 11 microservices |
-| **Performance** | p95 checkout **210 ms** · catalog search p95 **45 ms** · 99.97% availability measured over a rolling 12-month window |
-| **Security** | PCI-DSS-aligned tokenized payment flow · OAuth2 + JWT with short-lived refresh rotation · RBAC across every service boundary · idempotency keys on all mutating endpoints |
-| **Impact** | Eliminated oversell incidents entirely (down from ~120/month) · improved checkout conversion by **18%** · reduced infrastructure cost per order by **27%** |
-| **Repository** | [github.com/yourusername/atlas-commerce](https://github.com/yourusername/atlas-commerce) |
+| **Stack** | `Next.js` · `React` · `TypeScript` · `Supabase` · `PostgreSQL` · `Tailwind CSS` |
+| **Scale** | Tracks profits, debts, and payment methods across unlimited players and multiple concurrent game sessions |
+| **Performance** | Two-pointer settlement algorithm reduces the naive O(n²) transfer set to a minimal payment graph · server-rendered routes for instant session loading |
+| **Security** | Supabase authentication with row-level access policies · server-side validation on all balance mutations · no client-trusted financial state |
+| **Impact** | Replaces error-prone manual settlement with a deterministic payout plan · live at [chipcount.pranavbalaji.org](https://chipcount.pranavbalaji.org) |
+| **Repository** | [github.com/KushKodiya/chipCount](https://github.com/KushKodiya/chipCount) |
 
-Distributed inventory is where most commerce systems quietly break. I modeled stock as an append-only reservation ledger rather than a mutable counter, which makes every allocation auditable and every rollback deterministic. Checkout runs as an orchestrated saga with explicit compensating transactions, so a payment gateway timeout releases held inventory instead of stranding it. Every consumer is idempotent by construction, which made at-least-once delivery a non-issue rather than a source of duplicate orders.
+The settlement problem is the whole product. When six people play and everyone owes everyone, the naive approach generates a mess of transactions — and people get it wrong, which is how poker nights end badly. I sorted net balances into creditors and debtors and walked two pointers inward, matching the largest debt against the largest credit and settling the smaller of the two at each step. That collapses the transfer count to at most n−1 payments and, more importantly, produces a settlement anyone at the table can verify by eye.
 
 </details>
 
 <details>
-<summary><b>&nbsp;VisionGuard — Real-Time Computer Vision Threat Detection</b></summary>
+<summary><b>&nbsp;Job Scraper — Automated Internship Pipeline with Slack Delivery</b></summary>
 
 <br/>
 
-A low-latency video analytics system for perimeter and safety monitoring. VisionGuard runs multi-stream object detection and behavioral classification at the edge, escalating only high-confidence events to the cloud for review and long-term retention.
+A scraping and notification system that monitors multiple job boards for new internship postings and routes them into Slack, with per-user subscriptions so people only get alerts for roles they actually care about.
 
 | Attribute | Detail |
 | :--- | :--- |
-| **Stack** | `Python` · `PyTorch` · `TensorRT` · `OpenCV` · `FastAPI` · `gRPC` · `Redis` · `TimescaleDB` · `React` · `Docker` · `NVIDIA Jetson` |
-| **Scale** | 64 concurrent 1080p streams per edge node · 2.1M inference calls/day · 90-day encrypted event retention |
-| **Performance** | **28 FPS** per stream on edge hardware · end-to-end alert latency **under 400 ms** · model size reduced 4.1× via INT8 quantization with 1.2% mAP loss |
-| **Security** | On-device inference with zero raw-video egress · automatic face blurring before any upload · signed alert payloads · TLS 1.3 mutual authentication between edge and control plane |
-| **Impact** | Reduced false-positive alerts by **73%** against the prior baseline · cut cloud bandwidth cost by **88%** by keeping inference local |
-| **Repository** | [github.com/yourusername/visionguard](https://github.com/yourusername/visionguard) |
+| **Stack** | `Python` · `Playwright` · `BeautifulSoup` · `PostgreSQL` · `SQLite` · `SQLAlchemy` · `Slack Bolt` |
+| **Scale** | Surfaces **200+** internship listings daily across multiple job boards · continuous scheduled execution |
+| **Performance** | Headless browser orchestration handles JavaScript-rendered boards that static parsers miss · persistence layer deduplicates before dispatch rather than after |
+| **Security** | Slack tokens and board credentials loaded from environment configuration, never committed · scoped bot permissions limited to posting and subscription channels |
+| **Impact** | Reduced notification noise by **90%** through deduplication · role-based subscriptions mean each user receives only relevant openings in real time |
+| **Repository** | [github.com/KushKodiya/Job-Scraper](https://github.com/KushKodiya/Job-Scraper) |
 
-The constraint that shaped every decision was hardware: the target device had a fixed thermal and memory envelope, so accuracy gains had to be paid for in milliseconds. I built a two-stage cascade — a cheap motion-gated detector that suppresses static frames, followed by a quantized detection model that only runs on candidate regions. A temporal smoothing layer requires sustained confidence across consecutive frames before raising an alert, which is what collapsed the false-positive rate without meaningfully affecting recall.
+The scraper was the easy half. The real problem was that a naive implementation re-posts the same listing every time it runs, and a channel that cries wolf gets muted within a week — at which point the tool is worthless. I built a persistence layer with SQLAlchemy that fingerprints each posting and checks it against history before anything reaches Slack, which is what took noise down by 90%. The subscription layer sits on top: users register interest areas, and the dispatch logic fans each new listing out only to the people whose filters match.
 
 </details>
 
 <details>
-<summary><b>&nbsp;SynapseDB — Hybrid Retrieval Engine for RAG Systems</b></summary>
+<summary><b>&nbsp;Personal Portfolio — Engineering Presence & Resume Platform</b></summary>
 
 <br/>
 
-A retrieval engine purpose-built for grounded generation. SynapseDB combines dense vector search with sparse lexical matching, applies cross-encoder reranking, and returns span-level citations so every generated claim can be traced to its source.
+A hand-built portfolio site presenting experience, research, projects, and technical skills, with no framework overhead and no build step between source and deployment.
 
 | Attribute | Detail |
 | :--- | :--- |
-| **Stack** | `Rust` · `Python` · `FAISS` · `HNSWlib` · `PostgreSQL` · `pgvector` · `Redis` · `FastAPI` · `Docker` · `GCP` |
-| **Scale** | 62M indexed chunks · 1,024-dimensional embeddings · 340 GB index footprint · 800 queries/s sustained |
-| **Performance** | p95 retrieval **31 ms** · recall@10 improved from 0.71 to **0.94** via hybrid fusion and reranking · index build time reduced 6× through parallel sharded construction |
-| **Security** | Document-level ACL enforcement applied pre-retrieval · tenant-scoped index partitioning · encrypted embedding storage · query-log anonymization |
-| **Impact** | Reduced unsupported model claims by **68%** on the internal benchmark · became the retrieval layer for three downstream production systems |
-| **Repository** | [github.com/yourusername/synapsedb](https://github.com/yourusername/synapsedb) |
+| **Stack** | `HTML` · `CSS` · `JavaScript` · `Responsive Design` |
+| **Scale** | Full professional profile: five roles, project showcase, categorized skill inventory, downloadable resume |
+| **Performance** | Zero-dependency static delivery · no framework payload · single-page navigation with anchor-based routing |
+| **Security** | Static hosting with no server-side attack surface · no forms, no user data collection, no third-party trackers |
+| **Impact** | Primary professional landing page — live at [kushkodiya.com](https://kushkodiya.com) |
+| **Repository** | [github.com/KushKodiya/PersonalWebsite](https://github.com/KushKodiya/PersonalWebsite) |
 
-Pure vector search fails on exact-match queries — identifiers, error codes, proper nouns — because embeddings smooth away precisely the signal you need. I implemented reciprocal rank fusion over parallel dense and BM25 candidate sets, then reranked the merged top-k with a cross-encoder. Permissions are applied as a pre-filter on the index rather than as a post-filter on results, which guarantees that a user can never influence ranking with documents they aren't allowed to see.
-
-</details>
-
-<details>
-<summary><b>&nbsp;FinSight — Financial Intelligence & Forecasting Engine</b></summary>
-
-<br/>
-
-An analytics platform that ingests market and transactional data, generates probabilistic forecasts, and explains every prediction with attributable feature contributions rather than opaque scores.
-
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | `Python` · `FastAPI` · `PyTorch` · `XGBoost` · `Apache Airflow` · `TimescaleDB` · `Redis` · `Next.js` · `TypeScript` · `AWS` |
-| **Scale** | 14 years of historical series · 4.2M daily data points ingested · 300+ engineered features across 9 asset classes |
-| **Performance** | Forecast API p95 **85 ms** · nightly retraining pipeline completes in **22 minutes** · backtest throughput improved 11× via vectorized simulation |
-| **Security** | Immutable audit logging on every prediction · encrypted credential vault · least-privilege IAM per pipeline stage · reproducible model lineage for compliance review |
-| **Impact** | Improved directional accuracy by **12.4 points** over the naive baseline · reduced analyst report preparation time from 6 hours to **under 25 minutes** |
-| **Repository** | [github.com/yourusername/finsight](https://github.com/yourusername/finsight) |
-
-Financial models are trivially easy to fool yourself with, so the architecture prioritizes honesty over headline metrics. Walk-forward validation with strict temporal splits prevents lookahead leakage, all features are computed through a point-in-time feature store that reconstructs exactly what was knowable at prediction time, and outputs are intervals rather than point estimates. SHAP attributions ship alongside every forecast, which turned the system from something analysts distrusted into something they could actually defend.
+Building this without a framework was deliberate. A portfolio is the one project where load time is directly the product — a recruiter who waits on a hydration cycle has already formed an opinion. Plain HTML, CSS, and JavaScript ship instantly, degrade gracefully, and have no dependency tree to maintain against upstream churn.
 
 </details>
 
@@ -269,63 +249,28 @@ Financial models are trivially easy to fool yourself with, so the architecture p
 <tr>
 <td>
 
-### Software Engineer &nbsp;·&nbsp; Company Name
+### Software Engineering Intern &nbsp;·&nbsp; Reliance Matrix
 
-`Jan 2024 — Present` &nbsp;·&nbsp; `Full-time` &nbsp;·&nbsp; `Remote / Hybrid`
+`June 2026 — Present` &nbsp;·&nbsp; `Internship` &nbsp;·&nbsp; `Philadelphia, Pennsylvania`
 
-Own backend and ML infrastructure for a platform serving enterprise customers at scale. Lead design and delivery of latency-sensitive services, drive architectural review for cross-team initiatives, and maintain the production reliability standards the wider engineering group builds against.
-
-**Scope of Work**
-
-- Architected and shipped 6 production microservices handling a combined 9M+ requests per day, defining their API contracts, data ownership boundaries, and failure semantics
-- Reduced p95 API latency by **62%** through query plan analysis, connection pool tuning, targeted denormalization, and a multi-layer caching strategy
-- Built the LLM inference gateway now used by every AI-facing feature — request routing, token accounting, semantic caching, and graceful fallback across providers
-- Migrated a legacy monolith to an event-driven architecture with zero customer-visible downtime, using strangler-pattern routing over an 8-month phased rollout
-- Established the CI/CD baseline: automated test gates, container scanning, IaC-managed environments, and progressive canary deployments with automated rollback
-- Cut cloud spend by **34%** through rightsizing, spot-instance orchestration for batch workloads, and storage lifecycle policies
-- Mentor 4 junior engineers; author design documents and run the architecture review that precedes any service-level change
-
-<br/>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0D1117)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0D1117)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=0D1117)
-![System Design](https://img.shields.io/badge/System%20Design-7C3AED?style=flat-square&labelColor=0D1117)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
-
-### Machine Learning Engineer Intern &nbsp;·&nbsp; Company Name
-
-`Jun 2023 — Dec 2023` &nbsp;·&nbsp; `Internship` &nbsp;·&nbsp; `On-site`
-
-Worked on the applied ML team taking research prototypes into serving infrastructure. Focus areas were model optimization, evaluation rigor, and closing the gap between offline metrics and observed production behavior.
+Building backend services and front-end interfaces for the EIS enterprise insurance platform, working across the full deployment path from local development through containerized production release.
 
 **Scope of Work**
 
-- Built the training and evaluation pipeline for a document classification model, raising F1 from 0.79 to **0.91** through targeted data curation and loss reweighting for class imbalance
-- Optimized inference with ONNX conversion and dynamic quantization, achieving a **3.8× throughput gain** with negligible accuracy loss
-- Designed the offline evaluation harness with stratified holdout sets and slice-based metrics, exposing three systematic failure modes the aggregate score had hidden
-- Implemented drift monitoring on input distributions with automated alerting, which caught an upstream schema change before it degraded live predictions
-- Authored reproducibility documentation and containerized the environment, cutting new-engineer onboarding from days to under an hour
+- Shipped Java backend services and React user interfaces for the EIS insurance platform, improving team efficiency by **8%**
+- Debugged REST endpoints and front-end state issues across a split environment — remote Linux servers alongside local Windows development
+- Deployed Dockerized services to Kubernetes pods through Jenkins CI/CD pipelines
+- Applied agentic AI tooling to trace defects across service boundaries and accelerate root-cause identification
 
 <br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=0D1117)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
-![MLOps](https://img.shields.io/badge/MLOps-6366F1?style=flat-square&labelColor=0D1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0D1117)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=0D1117)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
 
 </td>
 </tr>
@@ -335,28 +280,114 @@ Worked on the applied ML team taking research prototypes into serving infrastruc
 <tr>
 <td>
 
-### Full Stack Developer Intern &nbsp;·&nbsp; Company Name
+### Data Science Researcher &nbsp;·&nbsp; Johnson & Johnson
 
-`Jan 2023 — May 2023` &nbsp;·&nbsp; `Internship` &nbsp;·&nbsp; `Remote`
+`January 2026 — May 2026` &nbsp;·&nbsp; `Research` &nbsp;·&nbsp; `West Lafayette, Indiana`
 
-Delivered customer-facing features across the stack on a small product team, owning work from ticket refinement through deployment and post-release monitoring.
+Built the data standardization and modeling pipeline behind an oncology survivability study, working from raw unstructured trial records through to a validated survival model.
 
 **Scope of Work**
 
-- Built 14 production features spanning React frontends, REST APIs, and PostgreSQL schema changes, each shipped with tests and migration plans
-- Improved Lighthouse performance from 61 to **96** through code splitting, image pipeline optimization, and server-side rendering of critical routes
-- Replaced ad-hoc client state with a normalized data layer, removing an entire class of stale-cache bugs from the issue backlog
-- Raised backend test coverage from 34% to **82%**, making refactors safe enough to attempt
-- Rebuilt the design system as accessible, documented, reusable components meeting WCAG 2.1 AA
+- Standardized highly unstructured oncology clinical trial data into a unified schema, making key predictors identifiable across previously incompatible record formats
+- Engineered a LASSO-regularized selection pipeline that reduced **300+ candidate features to 8–10 predictors** for the survivability model
+- Developed a Cox Proportional Hazards model for survival rate prediction with stable generalization across held-out data
+- Validated coefficient stability and guarded against overfitting on a high-dimensional, low-sample-size clinical dataset
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=0D1117)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117)
+![Survival Analysis](https://img.shields.io/badge/Survival%20Analysis-6366F1?style=flat-square&labelColor=0D1117)
+![LASSO](https://img.shields.io/badge/LASSO%20Regularization-8B5CF6?style=flat-square&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+### Autonomous Racing Researcher &nbsp;·&nbsp; Purdue University
+
+`August 2025 — May 2026` &nbsp;·&nbsp; `Research` &nbsp;·&nbsp; `West Lafayette, Indiana`
+
+Developed the localization and positioning stack for an autonomous racing kart, fusing GPS and inertial data into a real-time state estimate suitable for path planning.
+
+**Scope of Work**
+
+- Built a high-accuracy GPS data pipeline in Python using NTRIP correction streams for centimeter-grade autonomous kart navigation
+- Implemented real-time localization with a Kalman filter fusing GPS and IMU measurements to construct track maps
+- Integrated a control framework that consumes high-fidelity position data to predict upcoming turns for path planning
+- Handled sensor noise, dropout, and drift conditions inherent to outdoor high-speed operation
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-7C3AED?style=flat-square&labelColor=0D1117)
+![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-6366F1?style=flat-square&labelColor=0D1117)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0D1117)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-8B5CF6?style=flat-square&labelColor=0D1117)
+![GPS / NTRIP](https://img.shields.io/badge/GPS%20%2F%20NTRIP-4C1D95?style=flat-square&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+### Software Engineer Intern &nbsp;·&nbsp; Planet Web Solutions
+
+`May 2025 — September 2025` &nbsp;·&nbsp; `Internship` &nbsp;·&nbsp; `Remote`
+
+Built a full stack content platform end to end, owning the data model, authentication layer, and user-facing application.
+
+**Scope of Work**
+
+- Programmed a full stack web application in React and Node.js enabling users to create, edit, and publish blog posts
+- Integrated authentication and authorization using JSON Web Tokens for secure, session-scoped access control
+- Designed and optimized the MongoDB schema for storing and retrieving user interaction data including likes and comments
+- Tuned query patterns for read-heavy engagement data to keep post rendering responsive
 
 <br/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117)
-![Accessibility](https://img.shields.io/badge/Accessibility-8B5CF6?style=flat-square&labelColor=0D1117)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D1117)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+### Data Science Intern &nbsp;·&nbsp; Ascendion
+
+`June 2023 — July 2023` &nbsp;·&nbsp; `Internship` &nbsp;·&nbsp; `Remote`
+
+Early exposure to applied data science workflows — data preparation, exploratory analysis, and translating raw datasets into interpretable summaries.
+
+**Scope of Work**
+
+- Worked with production datasets through cleaning, transformation, and exploratory analysis
+- Produced analytical summaries and visualizations to support internal decision-making
+- Built foundational fluency in the Python data stack that carried directly into later research work
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-6D28D9?style=flat-square&labelColor=0D1117)
 
 </td>
 </tr>
@@ -370,56 +401,51 @@ Delivered customer-facing features across the stack on a small product team, own
 
 | Recognition | Details |
 | :--- | :--- |
-| **National Hackathon — Winner** | First place among 340+ competing teams; built a real-time distributed system in 36 hours and presented the architecture to a panel of industry judges |
-| **Smart India Hackathon — Finalist** | Selected from 12,000+ national submissions; delivered a working prototype under a government-defined problem statement |
-| **Open Source Contributor** | Merged pull requests into widely adopted repositories spanning performance fixes, documentation, and test coverage improvements |
-| **Competitive Programming** | Top **3%** globally on LeetCode · 1,400+ problems solved across platforms · consistent contest participation |
-| **Research Publication** | Co-authored a peer-reviewed paper on efficient inference optimization, presented at an international conference |
-| **Academic Distinction** | Dean's List across multiple semesters · CGPA **9.2/10** · departmental rank within the top 5 |
-| **Technical Leadership** | Led a 12-member university developer community; organized workshops on system design, cloud architecture, and applied ML |
-| **Cloud Excellence** | Recognized internally for an infrastructure optimization initiative that reduced annual cloud expenditure by six figures |
+| **Published Mod — Nexus Mods** | Willy's Apprentice released publicly to the Stardew Valley modding community, combining a full item index, an LLM-powered RAG chatbot, and an autonomous fishing agent |
+| **Industry Research — Johnson & Johnson** | Selected for a data science research role building the oncology survivability modeling pipeline, from schema standardization through Cox Proportional Hazards validation |
+| **Autonomous Systems Research — Purdue** | Year-long research contribution to an autonomous racing kart program, owning GPS/IMU sensor fusion and real-time localization |
+| **Academic Standing** | GPA **3.64/4.00** at Purdue University College of Science, with dual minors in Mathematics and Statistics |
+| **The Data Mine — Purdue** | Participant in Purdue's corporate-partnered applied data science program, working on industry-sponsored problems alongside coursework |
+| **Google AI Certificate** | Completed Google's Artificial Intelligence and Productivity certification |
+| **Measurable Engineering Impact** | 8% team efficiency gain at Reliance Matrix · 90% notification-noise reduction in Job Scraper · 300+ features reduced to 8–10 stable predictors |
+| **GitHub Achievements** | Pull Shark · Quickdraw · YOLO |
 
 </div>
 
 ---
 
-## Certifications
+## Certifications & Coursework
 
 <div align="center">
 
-### Amazon Web Services
+### Google
 
-<a href="#"><img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS SAA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS DVA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS CCP" /></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="AWS AIP" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Google-Artificial%20Intelligence%20%26%20Productivity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Google AI and Productivity" /></a>
 
 <br/>
 
-### Oracle
+### Purdue University — Core Computer Science
 
-<a href="#"><img src="https://img.shields.io/badge/Oracle%20Certified-OCI%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="OCI GenAI" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Oracle%20Certified-OCI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="OCI Foundations" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Oracle%20Certified-Java%20SE%20Programmer-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="Java SE" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Oracle%20Certified-Database%20SQL%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="Oracle SQL" /></a>
-
-<br/>
-
-### NPTEL
-
-<a href="#"><img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="NPTEL DSA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="NPTEL ML" /></a>
-<a href="#"><img src="https://img.shields.io/badge/NPTEL-Database%20Management%20Systems-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="NPTEL DBMS" /></a>
-<a href="#"><img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="NPTEL Cloud" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Data%20Structures%20%26%20Algorithms-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="Data Structures and Algorithms" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Object%20Oriented%20Programming-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="Object Oriented Programming" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Computer%20Architecture-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="Computer Architecture" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Systems%20Programming%20in%20C-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="Intro to C" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-CS%20Tools-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="CS Tools" /></a>
 
 <br/>
 
-### Cisco
+### Purdue University — Mathematics & Statistics
 
-<a href="#"><img src="https://img.shields.io/badge/Cisco-CCNA%20Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117" alt="CCNA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117" alt="Cisco Cybersecurity" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117" alt="Cisco Python" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Cisco-Introduction%20to%20IoT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117" alt="Cisco IoT" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Linear%20Algebra-6366F1?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Linear Algebra" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Multivariate%20Calculus-6366F1?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Multivariate Calculus" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Discrete%20Mathematics-6366F1?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Discrete Mathematics" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Introduction%20to%20Statistics-6366F1?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Introduction to Statistics" /></a>
+
+<br/>
+
+### Purdue University — Applied Data Science
+
+<a href="#"><img src="https://img.shields.io/badge/Purdue-The%20Data%20Mine-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117" alt="The Data Mine" /></a>
 
 </div>
 
@@ -429,22 +455,22 @@ Delivered customer-facing features across the stack on a small product team, own
 
 <div align="center">
 
-<a href="https://leetcode.com/u/yourusername/">
-  <img src="https://img.shields.io/badge/LeetCode-1400%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" height="42" alt="LeetCode" />
+<a href="https://leetcode.com/u/YOUR_HANDLE/">
+  <img src="https://img.shields.io/badge/LeetCode-Data%20Structures%20%26%20Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" height="42" alt="LeetCode" />
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/yourusername/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%20Top%2010-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" height="42" alt="GeeksforGeeks" />
+<a href="https://www.geeksforgeeks.org/user/YOUR_HANDLE/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" height="42" alt="GeeksforGeeks" />
 </a>
 
 <br/>
 
-<a href="https://www.hackerrank.com/profile/yourusername">
-  <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Problem%20Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" height="42" alt="HackerRank" />
+<a href="https://www.hackerrank.com/profile/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/HackerRank-Java%20%26%20Python%20Tracks-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" height="42" alt="HackerRank" />
 </a>
 
-<a href="https://www.codechef.com/users/yourusername">
-  <img src="https://img.shields.io/badge/CodeChef-4%20Star%20Competitive%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" height="42" alt="CodeChef" />
+<a href="https://www.codechef.com/users/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" height="42" alt="CodeChef" />
 </a>
 
 </div>
@@ -455,12 +481,12 @@ Delivered customer-facing features across the stack on a small product team, own
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=yourusername&hide_border=true&background=0D1117&stroke=1F2937&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KushKodiya&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=KushKodiya&hide_border=true&background=0D1117&stroke=1F2937&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushKodiya&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
@@ -470,7 +496,7 @@ Delivered customer-facing features across the stack on a small product team, own
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=KushKodiya&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
 
 </div>
 
@@ -480,7 +506,7 @@ Delivered customer-facing features across the stack on a small product team, own
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area_color=4C1D95&title_color=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity%20—%20Last%2031%20Days" alt="Contribution Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushKodiya&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area_color=4C1D95&title_color=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity%20—%20Last%2031%20Days" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
@@ -491,9 +517,9 @@ Delivered customer-facing features across the stack on a small product team, own
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake.svg" alt="Contribution Snake Animation" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KushKodiya/KushKodiya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KushKodiya/KushKodiya/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/KushKodiya/KushKodiya/output/github-snake.svg" alt="Contribution Snake Animation" width="100%" />
 </picture>
 
 </div>
@@ -504,37 +530,37 @@ Delivered customer-facing features across the stack on a small product team, own
 
 ```yaml
 engineer:
-  name: "Your Name"
-  role: "Software Engineer · AI/ML Engineer · Full Stack Developer"
-  timezone: "UTC+05:30"
+  name: "Kush Kodiya"
+  role: "Software Engineering Intern @ Reliance Matrix"
+  education: "B.S. Computer Science @ Purdue University · Minors in Mathematics & Statistics"
+  graduating: "December 2027"
+  location: "Philadelphia, Pennsylvania"
 
 learning:
-  - "Distributed consensus: Raft internals and production trade-offs"
-  - "Rust for systems-level performance and memory-safe concurrency"
-  - "Advanced Kubernetes: operators, custom controllers, admission webhooks"
-  - "Efficient LLM inference: speculative decoding and KV-cache optimization"
+  - "Distributed systems design and service-level reliability practices"
+  - "Advanced Kubernetes: workload scheduling, resource tuning, observability"
+  - "Deep learning foundations beyond classical ML pipelines"
+  - "Production LLM systems: retrieval quality, evaluation, and grounding"
 
 building:
-  - "Open-source retrieval infrastructure for grounded generation"
-  - "A low-latency, multi-tenant inference gateway"
-  - "Developer tooling for reproducible ML experiment tracking"
-  - "Technical writing on backend architecture and applied ML"
+  - "Willy's Apprentice — RAG chatbot and autonomous agent for Stardew Valley"
+  - "Job Scraper — automated internship discovery with Slack delivery"
+  - "ChipCount — full stack poker settlement and session tracking"
+  - "Personal engineering portfolio at kushkodiya.com"
 
 exploring:
-  - "Formal verification techniques for critical service paths"
-  - "WebAssembly at the edge for portable compute"
-  - "Vector database internals: quantization and index topology"
-  - "Privacy-preserving ML: federated learning and differential privacy"
+  - "Sensor fusion and state estimation for autonomous navigation"
+  - "Survival analysis and high-dimensional statistical modeling"
+  - "Reinforcement learning with Gymnasium environments"
+  - "Agentic AI tooling for debugging and defect tracing"
 
 open_to:
-  - "Software Engineering roles"
-  - "AI / ML Engineering roles"
-  - "Full Stack and Backend Engineering roles"
-  - "Platform and Infrastructure Engineering"
-  - "Open-source collaboration and technical mentorship"
+  - "Software Engineering internships and new grad roles"
+  - "Machine Learning and Data Science positions"
+  - "Full stack and backend engineering work"
+  - "Research collaborations and open-source contribution"
 
-currently_reading: "Designing Data-Intensive Applications — Martin Kleppmann"
-ask_me_about: ["system design", "distributed systems", "LLM infrastructure", "cloud architecture"]
+ask_me_about: ["full stack development", "applied machine learning", "sensor fusion", "data pipelines"]
 ```
 
 ---
@@ -543,22 +569,22 @@ ask_me_about: ["system design", "distributed systems", "LLM infrastructure", "cl
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:kushkodiya42@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="40" alt="Gmail" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/kush-kodiya-aa73462aa/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="40" alt="LinkedIn" />
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/KushKodiya">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="40" alt="GitHub" />
 </a>
-<a href="https://your-portfolio.com">
+<a href="https://kushkodiya.com">
   <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" height="40" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-**Open to engineering roles, technical collaboration, and meaningful open-source work.**
+**Open to collaborations, internship opportunities, and conversations on software engineering, data science, and autonomous systems.**
 
 </div>
 
@@ -566,7 +592,7 @@ ask_me_about: ["system design", "distributed systems", "LLM infrastructure", "cl
 
 <div align="center">
 
-### *"Good software is not the code that works today — it is the code someone else can trust tomorrow."*
+### *"The model is never the hard part — the schema underneath it is."*
 
 <br/>
 
