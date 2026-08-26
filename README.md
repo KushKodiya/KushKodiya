@@ -1,40 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:4C1D95,65:6D28D9,100:8B5CF6&height=230&section=header&text=Kush%20Kodiya&fontSize=54&fontColor=FFFFFF&fontAlignY=33&desc=Software%20Engineer%20%C2%B7%20Data%20Science%20Researcher%20%C2%B7%20Full%20Stack%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:064E3B,65:047857,100:10B981&height=230&section=header&text=Kush%20Kodiya&fontSize=54&fontColor=FFFFFF&fontAlignY=33&desc=Software%20Engineer%20%C2%B7%20Data%20Science%20Researcher%20%C2%B7%20Full%20Stack%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%" />
 
 <a href="https://kushkodiya.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=55&lines=Software+Engineering+Intern+%40+Reliance+Matrix;Computer+Science+%40+Purdue+University;Machine+Learning+%2B+Full+Stack+Product+Engineering;Autonomous+Systems%2C+Sensor+Fusion%2C+LLM+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=34D399&center=true&vCenter=true&width=820&height=55&lines=Software+Engineering+Intern+%40+Reliance+Matrix;Computer+Science+%40+Purdue+University;Machine+Learning+%2B+Full+Stack+Product+Engineering;Autonomous+Systems%2C+Sensor+Fusion%2C+LLM+Applications" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.S.-Computer%20Science-7C3AED?style=flat-square&labelColor=0D1117&logo=googlescholar&logoColor=A78BFA)
-![University](https://img.shields.io/badge/Purdue%20University-College%20of%20Science-6366F1?style=flat-square&labelColor=0D1117&logo=academia&logoColor=A78BFA)
-![GPA](https://img.shields.io/badge/GPA-3.64%20%2F%204.00-8B5CF6?style=flat-square&labelColor=0D1117&logo=leaderprice&logoColor=A78BFA)
-![Minors](https://img.shields.io/badge/Minors-Mathematics%20%26%20Statistics-5B21B6?style=flat-square&labelColor=0D1117&logo=wolframmathematica&logoColor=A78BFA)
-![Graduation](https://img.shields.io/badge/Expected-December%202027-6D28D9?style=flat-square&labelColor=0D1117&logo=googlecalendar&logoColor=A78BFA)
-![Location](https://img.shields.io/badge/Based%20in-Philadelphia%2C%20PA-4C1D95?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=A78BFA)
+![Degree](https://img.shields.io/badge/B.S.-Computer%20Science-10B981?style=flat-square&labelColor=0D1117&logo=googlescholar&logoColor=34D399)
+![University](https://img.shields.io/badge/Purdue%20University-College%20of%20Science-059669?style=flat-square&labelColor=0D1117&logo=academia&logoColor=34D399)
+![GPA](https://img.shields.io/badge/GPA-3.64%20%2F%204.00-34D399?style=flat-square&labelColor=0D1117&logo=leaderprice&logoColor=34D399)
+![Minors](https://img.shields.io/badge/Minors-Mathematics%20%26%20Statistics-064E3B?style=flat-square&labelColor=0D1117&logo=wolframmathematica&logoColor=34D399)
+![Graduation](https://img.shields.io/badge/Expected-December%202027-047857?style=flat-square&labelColor=0D1117&logo=googlecalendar&logoColor=34D399)
+![Location](https://img.shields.io/badge/Based%20in-Philadelphia%2C%20PA-065F46?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=34D399)
 
 <br/>
 
 <a href="https://kushkodiya.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/kush-kodiya-aa73462aa/">
-  <img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-059669?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
 <a href="mailto:kushkodiya42@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-047857?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
 </a>
 <a href="https://github.com/KushKodiya">
-  <img src="https://img.shields.io/badge/GITHUB-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-065F46?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KushKodiya&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/KushKodiya?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/github/stars/KushKodiya?label=TOTAL%20STARS&style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=white" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=KushKodiya&label=PROFILE%20VIEWS&color=10B981&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/KushKodiya?label=FOLLOWERS&style=for-the-badge&color=10B981&labelColor=0D1117&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/KushKodiya?label=TOTAL%20STARS&style=for-the-badge&color=10B981&labelColor=0D1117&logo=github&logoColor=white" alt="Stars" />
 
 </div>
 
@@ -81,12 +81,12 @@ The through-line is that I like problems where the data is bad, the constraints 
 
 ### Open To
 
-![Open To](https://img.shields.io/badge/Software%20Engineering%20Internships-7C3AED?style=flat-square&labelColor=0D1117)
-![Open To](https://img.shields.io/badge/Machine%20Learning%20%26%20Data%20Science-6366F1?style=flat-square&labelColor=0D1117)
-![Open To](https://img.shields.io/badge/Full%20Stack%20Engineering-8B5CF6?style=flat-square&labelColor=0D1117)
-![Open To](https://img.shields.io/badge/Backend%20%26%20Platform%20Engineering-4C1D95?style=flat-square&labelColor=0D1117)
-![Open To](https://img.shields.io/badge/Research%20Opportunities-6D28D9?style=flat-square&labelColor=0D1117)
-![Open To](https://img.shields.io/badge/Open%20Source%20Collaboration-5B21B6?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Software%20Engineering%20Internships-10B981?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Machine%20Learning%20%26%20Data%20Science-059669?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Full%20Stack%20Engineering-34D399?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Backend%20%26%20Platform%20Engineering-065F46?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Research%20Opportunities-047857?style=flat-square&labelColor=0D1117)
+![Open To](https://img.shields.io/badge/Open%20Source%20Collaboration-064E3B?style=flat-square&labelColor=0D1117)
 
 </div>
 
@@ -269,7 +269,7 @@ Building backend services and front-end interfaces for the EIS enterprise insura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0D1117)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=0D1117)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square&labelColor=0D1117)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-10B981?style=flat-square&labelColor=0D1117)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
 
 </td>
@@ -299,8 +299,8 @@ Built the data standardization and modeling pipeline behind an oncology survivab
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=0D1117)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117)
-![Survival Analysis](https://img.shields.io/badge/Survival%20Analysis-6366F1?style=flat-square&labelColor=0D1117)
-![LASSO](https://img.shields.io/badge/LASSO%20Regularization-8B5CF6?style=flat-square&labelColor=0D1117)
+![Survival Analysis](https://img.shields.io/badge/Survival%20Analysis-059669?style=flat-square&labelColor=0D1117)
+![LASSO](https://img.shields.io/badge/LASSO%20Regularization-34D399?style=flat-square&labelColor=0D1117)
 
 </td>
 </tr>
@@ -326,11 +326,11 @@ Developed the localization and positioning stack for an autonomous racing kart, 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
-![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-7C3AED?style=flat-square&labelColor=0D1117)
-![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-6366F1?style=flat-square&labelColor=0D1117)
+![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-10B981?style=flat-square&labelColor=0D1117)
+![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-059669?style=flat-square&labelColor=0D1117)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0D1117)
-![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-8B5CF6?style=flat-square&labelColor=0D1117)
-![GPS / NTRIP](https://img.shields.io/badge/GPS%20%2F%20NTRIP-4C1D95?style=flat-square&labelColor=0D1117)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-34D399?style=flat-square&labelColor=0D1117)
+![GPS / NTRIP](https://img.shields.io/badge/GPS%20%2F%20NTRIP-065F46?style=flat-square&labelColor=0D1117)
 
 </td>
 </tr>
@@ -387,7 +387,7 @@ Early exposure to applied data science workflows — data preparation, explorato
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-6D28D9?style=flat-square&labelColor=0D1117)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-047857?style=flat-square&labelColor=0D1117)
 
 </td>
 </tr>
@@ -420,93 +420,32 @@ Early exposure to applied data science workflows — data preparation, explorato
 
 ### Google
 
-<a href="#"><img src="https://img.shields.io/badge/Google-Artificial%20Intelligence%20%26%20Productivity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Google AI and Productivity" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Google-Artificial%20Intelligence%20%26%20Productivity-10B981?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Google AI and Productivity" /></a>
 
 <br/>
 
 ### Purdue University — Core Computer Science
 
-<a href="#"><img src="https://img.shields.io/badge/Purdue-Data%20Structures%20%26%20Algorithms-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="Data Structures and Algorithms" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Purdue-Object%20Oriented%20Programming-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="Object Oriented Programming" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Purdue-Computer%20Architecture-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="Computer Architecture" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Purdue-Systems%20Programming%20in%20C-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="Intro to C" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Purdue-CS%20Tools-CEB888?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=0D1117" alt="CS Tools" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Data%20Structures%20%26%20Algorithms-059669?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="Data Structures and Algorithms" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Object%20Oriented%20Programming-059669?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="Object Oriented Programming" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Computer%20Architecture-059669?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="Computer Architecture" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Systems%20Programming%20in%20C-059669?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="Intro to C" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-CS%20Tools-059669?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" alt="CS Tools" /></a>
 
 <br/>
 
 ### Purdue University — Mathematics & Statistics
 
-<a href="#"><img src="https://img.shields.io/badge/Purdue-Linear%20Algebra-6366F1?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Linear Algebra" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Purdue-Multivariate%20Calculus-6366F1?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Multivariate Calculus" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Purdue-Discrete%20Mathematics-6366F1?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Discrete Mathematics" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Purdue-Introduction%20to%20Statistics-6366F1?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Introduction to Statistics" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Linear%20Algebra-047857?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Linear Algebra" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Multivariate%20Calculus-047857?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Multivariate Calculus" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Discrete%20Mathematics-047857?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Discrete Mathematics" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Purdue-Introduction%20to%20Statistics-047857?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=0D1117" alt="Introduction to Statistics" /></a>
 
 <br/>
 
 ### Purdue University — Applied Data Science
 
-<a href="#"><img src="https://img.shields.io/badge/Purdue-The%20Data%20Mine-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117" alt="The Data Mine" /></a>
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/YOUR_HANDLE/">
-  <img src="https://img.shields.io/badge/LeetCode-Data%20Structures%20%26%20Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" height="42" alt="LeetCode" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_HANDLE/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" height="42" alt="GeeksforGeeks" />
-</a>
-
-<br/>
-
-<a href="https://www.hackerrank.com/profile/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/HackerRank-Java%20%26%20Python%20Tracks-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" height="42" alt="HackerRank" />
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" height="42" alt="CodeChef" />
-</a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KushKodiya&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=KushKodiya&hide_border=true&background=0D1117&stroke=1F2937&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushKodiya&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KushKodiya&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushKodiya&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area_color=4C1D95&title_color=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity%20—%20Last%2031%20Days" alt="Contribution Activity Graph" width="100%" />
+<a href="#"><img src="https://img.shields.io/badge/Purdue-The%20Data%20Mine-065F46?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117" alt="The Data Mine" /></a>
 
 </div>
 
@@ -579,7 +518,7 @@ ask_me_about: ["full stack development", "applied machine learning", "sensor fus
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="40" alt="GitHub" />
 </a>
 <a href="https://kushkodiya.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" height="40" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" height="40" alt="Portfolio" />
 </a>
 
 <br/><br/>
@@ -596,6 +535,6 @@ ask_me_about: ["full stack development", "applied machine learning", "sensor fus
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,35:6D28D9,70:4C1D95,100:0D1117&height=170&section=footer&text=Let%27s%20Build%20Something%20Exceptional&fontSize=24&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,35:047857,70:064E3B,100:0D1117&height=170&section=footer&text=Let%27s%20Build%20Something%20Exceptional&fontSize=24&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn" width="100%" />
 
 </div>
