@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:064E3B,65:047857,100:10B981&height=230&section=header&text=Kush%20Kodiya&fontSize=54&fontColor=FFFFFF&fontAlignY=33&desc=Software%20Engineer%20%C2%B7%20Data%20Science%20Researcher%20%C2%B7%20Full%20Stack%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%" />
 
 <a href="https://kushkodiya.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=34D399&center=true&vCenter=true&width=820&height=55&lines=Software+Engineering+Intern+%40+Reliance+Matrix;Computer+Science+%40+Purdue+University;Machine+Learning+%2B+Full+Stack+Product+Engineering;Autonomous+Systems%2C+Sensor+Fusion%2C+LLM+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=34D399&center=true&vCenter=true&width=820&height=55&lines=Software+Engineering+Intern+%40+Reliance+Matrix;Computer+Science+%40+Purdue+University;Machine+Learning+%2B+Full+Stack+Product+Engineering;Autonomous+Systems%2C+Sensor+Fusion%2C+Native+iOS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,9 +44,9 @@
 
 I'm a **Computer Science student at Purdue University** with minors in Mathematics and Statistics, and I build software that has to hold up outside a notebook — backend services running in production, research pipelines that other people depend on, and full stack products that real users touch.
 
-My work splits across three areas. In **software engineering**, I currently ship Java backend services and React interfaces for an enterprise insurance platform at Reliance Matrix, deploying containerized services to Kubernetes through Jenkins CI/CD. In **applied machine learning and data science**, I've built survival modeling pipelines on messy oncology trial data at Johnson & Johnson, where the hard part was never the model — it was turning unstructured clinical records into a schema that could be reasoned about, then cutting 300+ candidate features down to a set small enough to defend. In **autonomous systems**, I built GPS and IMU sensor fusion for an autonomous racing kart, implementing real-time Kalman filter localization and feeding high-fidelity position data into a path planning framework.
+My work splits across four areas. In **software engineering**, I currently ship Java backend services and React interfaces for an enterprise insurance platform at Reliance Matrix, deploying containerized services to Kubernetes through Jenkins CI/CD. In **applied machine learning and data science**, I've built survival modeling pipelines on messy oncology trial data at Johnson & Johnson, where the hard part was never the model — it was turning unstructured clinical records into a schema that could be reasoned about, then cutting 300+ candidate features down to a set small enough to defend. In **autonomous systems**, I built GPS and IMU sensor fusion for an autonomous racing kart, implementing real-time Kalman filter localization and feeding high-fidelity position data into a path planning framework. And in **native mobile**, I build in Swift 6 and SwiftUI against Apple's newest frameworks — TapOut runs on AlarmKit with a keychain-backed, tamper-resistant override ledger.
 
-The through-line is that I like problems where the data is bad, the constraints are real, and the result has to actually run. I care about clean schema design, reproducible pipelines, and code that the next person can pick up without a walkthrough. My side projects tend to start because something annoyed me — a Slack bot exists because tracking internship postings by hand was miserable, a poker settlement app exists because splitting payouts at the table is worse math than it looks.
+The through-line is that I like problems where the data is bad, the constraints are real, and the result has to actually run. I care about clean schema design, reproducible pipelines, and code that the next person can pick up without a walkthrough. My side projects tend to start because something annoyed me — a Slack bot exists because tracking internship postings by hand was miserable, a poker settlement app exists because splitting payouts at the table is worse math than it looks, and an alarm app exists because the snooze button works too well.
 
 <table>
 <tr>
@@ -56,10 +56,10 @@ The through-line is that I like problems where the data is bad, the constraints 
 
 - Full stack development across React, Next.js, and Node.js
 - Backend engineering in Java, Python, and TypeScript
+- Native iOS with Swift 6, SwiftUI, and structured concurrency
 - Applied ML: feature selection, survival analysis, evaluation
 - Data engineering on unstructured and messy real-world sources
 - Sensor fusion, Kalman filtering, real-time localization
-- LLM applications: RAG systems and retrieval-grounded chat
 
 </td>
 <td width="50%" valign="top">
@@ -69,8 +69,8 @@ The through-line is that I like problems where the data is bad, the constraints 
 - Schema and data model design before feature work
 - Reproducible pipelines over one-off analysis scripts
 - Statistical rigor — regularization, generalization checks
+- Threat modeling on anything with an override path
 - Containerized, CI/CD-deployed services by default
-- Debugging across mixed Linux and Windows environments
 - Shipping projects end to end, not stopping at prototype
 
 </td>
@@ -98,13 +98,13 @@ The through-line is that I like problems where the data is bad, the constraints 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,cs,cpp,c,r,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,swift,cs,cpp,c,r,html,css&theme=dark" alt="Languages" />
 
 <br/>
 
-**Frontend**
+**Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,swift,tailwind,bootstrap,html,css,js&theme=dark" alt="Frontend and Mobile" />
 
 <br/>
 
@@ -160,6 +160,28 @@ The through-line is that I like problems where the data is bad, the constraints 
 ---
 
 ## Featured Projects
+
+<details>
+<summary><b>&nbsp;TapOut — NFC-Gated Alarm System for iOS</b></summary>
+
+<br/>
+
+An alarm app you cannot snooze from bed. TapOut fires a continuous chain of alarms that only stops when you physically scan an NFC tag placed across the room — and the emergency override is deliberately hard to reach, rate-limited, and tamper-resistant.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | `Swift 6` · `SwiftUI` · `AlarmKit` · `SwiftData` · `App Intents` · `Keychain Services` · `NFC / Shortcuts` · `XcodeGen` |
+| **Scale** | Schedules up to **720 chained alarms** per wake event — 5-second intervals across a 60-minute hard-stop window — committed upfront in a single batch |
+| **Performance** | Full chain scheduled ahead of time rather than incrementally, removing any dependency on background refresh tasks · dismissal cancels every chain member at once · built under `SWIFT_STRICT_CONCURRENCY: complete` |
+| **Security** | Emergency-unlock ledger persisted to the iOS Keychain with `AfterFirstUnlockThisDeviceOnly` accessibility · monotonic timestamp validation rejects device clock rollback · hard cap of 3 overrides per rolling 7-day window |
+| **Impact** | Removes the snooze button as a structural option — the alarm has no in-bed dismissal path at all |
+| **Repository** | [github.com/KushKodiya/TapOut](https://github.com/KushKodiya/TapOut) |
+
+Every alarm app fails the same way: the dismiss button is reachable from bed. TapOut's answer is to make dismissal a physical act. An NTAG NFC tag written with a custom URL scheme sits on the bathroom mirror, and a Shortcuts automation deep-links into the app to cancel the chain — so the only route to silence is walking there. Under the hood the chain is a long sequence of AlarmKit alarms rather than a single repeating one, which means tapping "Stop" on the lock screen silences exactly one member and the next fires five seconds later. That behavior is intentional, not a bug.
+
+The harder problem was the emergency exit. A system with no override is unusable when you're travelling or the tag is gone, but an easy override defeats the entire product. I built a friction gate — a ten-second button hold, then typing a confirmation phrase, then selecting a reason — backed by a ledger in the Keychain that allows three overrides per rolling week. Because the obvious way to cheat a time-windowed limit is to roll the device clock backward, the ledger stores a monotonic high-water timestamp and refuses to consume an entry when it detects time moving in reverse.
+
+</details>
 
 <details>
 <summary><b>&nbsp;Willy's Apprentice — LLM-Powered Stardew Valley Companion Mod</b></summary>
@@ -404,6 +426,7 @@ Early exposure to applied data science workflows — data preparation, explorato
 | **Published Mod — Nexus Mods** | Willy's Apprentice released publicly to the Stardew Valley modding community, combining a full item index, an LLM-powered RAG chatbot, and an autonomous fishing agent |
 | **Industry Research — Johnson & Johnson** | Selected for a data science research role building the oncology survivability modeling pipeline, from schema standardization through Cox Proportional Hazards validation |
 | **Autonomous Systems Research — Purdue** | Year-long research contribution to an autonomous racing kart program, owning GPS/IMU sensor fusion and real-time localization |
+| **Native iOS on Emerging Frameworks** | Built TapOut against Apple's AlarmKit and Swift 6 strict concurrency, including a tamper-resistant Keychain ledger with clock-rollback detection |
 | **Academic Standing** | GPA **3.64/4.00** at Purdue University College of Science, with dual minors in Mathematics and Statistics |
 | **The Data Mine — Purdue** | Participant in Purdue's corporate-partnered applied data science program, working on industry-sponsored problems alongside coursework |
 | **Google AI Certificate** | Completed Google's Artificial Intelligence and Productivity certification |
@@ -476,12 +499,14 @@ engineer:
   location: "Philadelphia, Pennsylvania"
 
 learning:
+  - "Native iOS: SwiftUI, structured concurrency, and AlarmKit internals"
   - "Distributed systems design and service-level reliability practices"
   - "Advanced Kubernetes: workload scheduling, resource tuning, observability"
   - "Deep learning foundations beyond classical ML pipelines"
   - "Production LLM systems: retrieval quality, evaluation, and grounding"
 
 building:
+  - "TapOut — NFC-gated alarm system on Swift 6 and AlarmKit"
   - "Willy's Apprentice — RAG chatbot and autonomous agent for Stardew Valley"
   - "Job Scraper — automated internship discovery with Slack delivery"
   - "ChipCount — full stack poker settlement and session tracking"
@@ -490,16 +515,17 @@ building:
 exploring:
   - "Sensor fusion and state estimation for autonomous navigation"
   - "Survival analysis and high-dimensional statistical modeling"
+  - "Tamper-resistant local storage and anti-rollback design"
   - "Reinforcement learning with Gymnasium environments"
   - "Agentic AI tooling for debugging and defect tracing"
 
 open_to:
   - "Software Engineering internships and new grad roles"
   - "Machine Learning and Data Science positions"
-  - "Full stack and backend engineering work"
+  - "Full stack, backend, and iOS engineering work"
   - "Research collaborations and open-source contribution"
 
-ask_me_about: ["full stack development", "applied machine learning", "sensor fusion", "data pipelines"]
+ask_me_about: ["full stack development", "applied machine learning", "native iOS", "sensor fusion", "data pipelines"]
 ```
 
 ---
