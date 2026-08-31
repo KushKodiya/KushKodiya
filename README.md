@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:064E3B,65:047857,100:10B981&height=230&section=header&text=Kush%20Kodiya&fontSize=54&fontColor=FFFFFF&fontAlignY=33&desc=Software%20Engineer%20%C2%B7%20Data%20Science%20Researcher%20%C2%B7%20Full%20Stack%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%" />
 
 <a href="https://kushkodiya.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=34D399&center=true&vCenter=true&width=820&height=55&lines=Software+Engineering+Intern+%40+Reliance+Matrix;Computer+Science+%40+Purdue+University;Machine+Learning+%2B+Full+Stack+Product+Engineering;Autonomous+Systems%2C+Sensor+Fusion%2C+Native+iOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=34D399&center=true&vCenter=true&width=820&height=55&lines=Software+Engineering+Intern+%40+Reliance+Matrix;Computer+Science+%40+Purdue+University;Machine+Learning+%2B+Full+Stack+Product+Engineering;Autonomous+Systems%2C+Simulation%2C+Native+iOS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,7 +46,7 @@ I'm a **Computer Science student at Purdue University** with minors in Mathemati
 
 My work splits across four areas. In **software engineering**, I currently ship Java backend services and React interfaces for an enterprise insurance platform at Reliance Matrix, deploying containerized services to Kubernetes through Jenkins CI/CD. In **applied machine learning and data science**, I've built survival modeling pipelines on messy oncology trial data at Johnson & Johnson, where the hard part was never the model — it was turning unstructured clinical records into a schema that could be reasoned about, then cutting 300+ candidate features down to a set small enough to defend. In **autonomous systems**, I built GPS and IMU sensor fusion for an autonomous racing kart, implementing real-time Kalman filter localization and feeding high-fidelity position data into a path planning framework. And in **native mobile**, I build in Swift 6 and SwiftUI against Apple's newest frameworks — TapOut runs on AlarmKit with a keychain-backed, tamper-resistant override ledger.
 
-The through-line is that I like problems where the data is bad, the constraints are real, and the result has to actually run. I care about clean schema design, reproducible pipelines, and code that the next person can pick up without a walkthrough. My side projects tend to start because something annoyed me — a Slack bot exists because tracking internship postings by hand was miserable, a poker settlement app exists because splitting payouts at the table is worse math than it looks, and an alarm app exists because the snooze button works too well.
+The through-line is that I like problems where the data is bad, the constraints are real, and the result has to actually run. I care about clean schema design, reproducible pipelines, and code that the next person can pick up without a walkthrough. My side projects tend to start because something annoyed me — a Slack bot exists because tracking internship postings by hand was miserable, a poker settlement app exists because splitting payouts at the table is worse math than it looks, and a fantasy football engine exists because I wanted to know whether my draft instincts survived contact with a simulation.
 
 <table>
 <tr>
@@ -57,8 +57,8 @@ The through-line is that I like problems where the data is bad, the constraints 
 - Full stack development across React, Next.js, and Node.js
 - Backend engineering in Java, Python, and TypeScript
 - Native iOS with Swift 6, SwiftUI, and structured concurrency
-- Applied ML: feature selection, survival analysis, evaluation
-- Data engineering on unstructured and messy real-world sources
+- Applied ML: feature selection, calibration, evaluation gates
+- Monte Carlo simulation and decision-making under uncertainty
 - Sensor fusion, Kalman filtering, real-time localization
 
 </td>
@@ -69,7 +69,7 @@ The through-line is that I like problems where the data is bad, the constraints 
 - Schema and data model design before feature work
 - Reproducible pipelines over one-off analysis scripts
 - Statistical rigor — regularization, generalization checks
-- Threat modeling on anything with an override path
+- Golden-fixture tests and coverage gates enforced in CI
 - Containerized, CI/CD-deployed services by default
 - Shipping projects end to end, not stopping at prototype
 
@@ -130,13 +130,14 @@ The through-line is that I like problems where the data is bad, the constraints 
 | :--- | :---: | :--- |
 | **Statistical Modeling & Survival Analysis** | `▰▰▰▰▰▰▰▰▱▱` | Cox Proportional Hazards modeling, censored data handling, hazard ratio interpretation, generalization testing across held-out cohorts |
 | **Feature Engineering & Selection** | `▰▰▰▰▰▰▰▰▱▱` | LASSO regularization, dimensionality reduction from 300+ candidates to compact predictor sets, multicollinearity diagnosis, coefficient stability analysis |
-| **Data Wrangling & Schema Design** | `▰▰▰▰▰▰▰▰▰▱` | Standardizing highly unstructured clinical trial records into unified schemas, normalization, deduplication, reproducible transformation pipelines |
-| **Classical Machine Learning** | `▰▰▰▰▰▰▰▰▱▱` | Regression and classification workflows in scikit-learn, cross-validation strategy, regularization tuning, bias–variance diagnosis |
+| **Simulation & Decision Under Uncertainty** | `▰▰▰▰▰▰▰▰▱▱` | Monte Carlo rollouts with common random numbers, variance reduction, standard-error budgeting, expected-value ranking under hard wall-clock constraints |
+| **Classical Machine Learning** | `▰▰▰▰▰▰▰▰▱▱` | scikit-learn regression and classification, LightGBM quantile regression, isotonic calibration, cross-validation strategy, held-out promotion gates |
+| **Data Wrangling & Schema Design** | `▰▰▰▰▰▰▰▰▰▱` | Standardizing unstructured clinical and sports data into unified schemas, fuzzy entity resolution across ID systems, reproducible transformation pipelines |
 | **LLM Applications & RAG** | `▰▰▰▰▰▰▰▱▱▱` | Retrieval-augmented chat over wiki corpora and live game-state queries, context construction, grounding responses in indexed source data |
 | **Sensor Fusion & State Estimation** | `▰▰▰▰▰▰▰▰▱▱` | Kalman filtering over combined GPS and IMU streams, NTRIP RTK corrections, real-time localization for autonomous kart navigation |
 | **Reinforcement Learning** | `▰▰▰▰▰▱▱▱▱▱` | Gymnasium environments, agent–environment loop design, policy evaluation, reward shaping fundamentals |
 | **Data Acquisition & Automation** | `▰▰▰▰▰▰▰▰▰▱` | Playwright and BeautifulSoup scraping at scale, headless browser orchestration, rate handling, deduplication and alert-noise reduction |
-| **Analysis & Visualization** | `▰▰▰▰▰▰▰▰▱▱` | pandas, NumPy, Matplotlib, exploratory analysis on high-dimensional datasets, statistical summarization for non-technical stakeholders |
+| **Analysis & Visualization** | `▰▰▰▰▰▰▰▰▱▱` | Polars and pandas, NumPy, Matplotlib, exploratory analysis on high-dimensional datasets, statistical summarization for non-technical stakeholders |
 
 </div>
 
@@ -145,9 +146,13 @@ The through-line is that I like problems where the data is bad, the constraints 
 **Frameworks & Tooling**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightning&logoColor=white&labelColor=0D1117)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white&labelColor=0D1117)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0D1117)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white&labelColor=0D1117)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white&labelColor=0D1117)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square&logo=openaigym&logoColor=white&labelColor=0D1117)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=0D1117)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
@@ -160,28 +165,6 @@ The through-line is that I like problems where the data is bad, the constraints 
 ---
 
 ## Featured Projects
-
-<details>
-<summary><b>&nbsp;TapOut — NFC-Gated Alarm System for iOS</b></summary>
-
-<br/>
-
-An alarm app you cannot snooze from bed. TapOut fires a continuous chain of alarms that only stops when you physically scan an NFC tag placed across the room — and the emergency override is deliberately hard to reach, rate-limited, and tamper-resistant.
-
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | `Swift 6` · `SwiftUI` · `AlarmKit` · `SwiftData` · `App Intents` · `Keychain Services` · `NFC / Shortcuts` · `XcodeGen` |
-| **Scale** | Schedules up to **720 chained alarms** per wake event — 5-second intervals across a 60-minute hard-stop window — committed upfront in a single batch |
-| **Performance** | Full chain scheduled ahead of time rather than incrementally, removing any dependency on background refresh tasks · dismissal cancels every chain member at once · built under `SWIFT_STRICT_CONCURRENCY: complete` |
-| **Security** | Emergency-unlock ledger persisted to the iOS Keychain with `AfterFirstUnlockThisDeviceOnly` accessibility · monotonic timestamp validation rejects device clock rollback · hard cap of 3 overrides per rolling 7-day window |
-| **Impact** | Removes the snooze button as a structural option — the alarm has no in-bed dismissal path at all |
-| **Repository** | [github.com/KushKodiya/TapOut](https://github.com/KushKodiya/TapOut) |
-
-Every alarm app fails the same way: the dismiss button is reachable from bed. TapOut's answer is to make dismissal a physical act. An NTAG NFC tag written with a custom URL scheme sits on the bathroom mirror, and a Shortcuts automation deep-links into the app to cancel the chain — so the only route to silence is walking there. Under the hood the chain is a long sequence of AlarmKit alarms rather than a single repeating one, which means tapping "Stop" on the lock screen silences exactly one member and the next fires five seconds later. That behavior is intentional, not a bug.
-
-The harder problem was the emergency exit. A system with no override is unusable when you're travelling or the tag is gone, but an easy override defeats the entire product. I built a friction gate — a ten-second button hold, then typing a confirmation phrase, then selecting a reason — backed by a ledger in the Keychain that allows three overrides per rolling week. Because the obvious way to cheat a time-windowed limit is to roll the device clock backward, the ledger stores a monotonic high-water timestamp and refuses to consume an entry when it detects time moving in reverse.
-
-</details>
 
 <details>
 <summary><b>&nbsp;Willy's Apprentice — LLM-Powered Stardew Valley Companion Mod</b></summary>
@@ -200,6 +183,28 @@ A published Stardew Valley mod that pairs a fully indexed in-game item reference
 | **Repository** | [github.com/KushKodiya/WillysApprentice](https://github.com/KushKodiya/WillysApprentice) · [Nexus Mods Release](https://www.nexusmods.com/stardewvalley/mods/49080) |
 
 The interesting engineering here was bridging three runtimes that don't naturally talk to each other. The mod itself is C# running inside the game's modding framework; the retrieval and language layer is Python behind Flask; and the fishing agent has to read game state, evaluate season and weather conditions against a goal, then drive actual C# input events back into the running game. Getting the chatbot to answer correctly meant grounding it in two distinct sources — a static compiled wiki dataset for game mechanics, and live save-state queries for anything about the player's specific situation — because a model answering from memory alone gets Stardew's item and recipe details wrong constantly.
+
+</details>
+
+<details>
+<summary><b>&nbsp;SleeperPredictor — Simulation-Based Fantasy Draft Decision Engine</b></summary>
+
+<br/>
+
+A local-first draft engine for Sleeper snake drafts. Rather than ranking players off a static board, SleeperPredictor replays the remainder of the draft thousands of times for each candidate — modeling how the other managers will pick, then simulating the season that follows — and recommends the player with the highest expected final team value.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | `Python 3.13` · `Polars` · `NumPy` · `LightGBM` · `scikit-learn` · `Pydantic v2` · `Typer` · `Rich` · `httpx` · `pytest` · `GitHub Actions` |
+| **Scale** | ~**8,000 lines** across 46 modules with ~5,000 lines of tests · 10 seasons of historical nflverse data · 256-player boards over 15-round drafts · backtest harness replaying 600 recommendations against historical seasons |
+| **Performance** | 64 scenarios × 128 season sims in **19.7s** against a hard 45-second live budget · common random numbers cut required sims by roughly an order of magnitude · vectorized NumPy lineup optimizer computes every sim-week at once and is tested to agree exactly with the reference solver |
+| **Security** | Fully local-first — no account credentials, no data leaves the machine beyond public read endpoints · deterministic seeding on every stochastic step · frozen golden fixtures mean no test touches the network · CI enforces lint plus an **80% coverage floor** |
+| **Impact** | Reproduces every team's reported weekly score for a full prior season to within **0.01 points** before any valuation runs · replaces gut-feel drafting with a measured expected-value recommendation |
+| **Repository** | [github.com/KushKodiya/SleeperPredictor](https://github.com/KushKodiya/SleeperPredictor) |
+
+The correctness problem came before the modeling problem. If the engine can't reproduce a league's actual scoring from raw stat lines, every valuation downstream is confidently wrong in a way nothing would surface. So the first thing built was a golden reproduction that scores an entire prior season from raw nflverse stats and compares against Sleeper's reported points to a 0.01 tolerance — it runs in CI off a frozen fixture as the project's canary, and everything else is gated behind it passing.
+
+The recommendation itself is a nested simulation with a wall clock attached. Opponents are modeled as ADP plus a fitted per-manager deviation, partially pooled with empirical-Bayes shrinkage so a manager with a dozen drafts doesn't get treated as more knowable than they are. Projections decompose into games played × opportunity per game × points per opportunity, because a durability miss, a usage miss, and an efficiency miss all look identical in season totals — and opportunity shares run through a per-team softmax so the model can't project four pass-catchers past the volume that team actually throws. The model only replaces the calibrated baseline board if it beats it on held-out error, and it substitutes rather than blends, because averaging a measured win with the thing it beat dilutes the result at a weight nobody has justified. When a recommendation would blow the 45-second budget it degrades to the static board, since during a live draft an overrun is worse than a slightly less clever pick.
 
 </details>
 
@@ -240,6 +245,28 @@ A scraping and notification system that monitors multiple job boards for new int
 | **Repository** | [github.com/KushKodiya/Job-Scraper](https://github.com/KushKodiya/Job-Scraper) |
 
 The scraper was the easy half. The real problem was that a naive implementation re-posts the same listing every time it runs, and a channel that cries wolf gets muted within a week — at which point the tool is worthless. I built a persistence layer with SQLAlchemy that fingerprints each posting and checks it against history before anything reaches Slack, which is what took noise down by 90%. The subscription layer sits on top: users register interest areas, and the dispatch logic fans each new listing out only to the people whose filters match.
+
+</details>
+
+<details>
+<summary><b>&nbsp;TapOut — NFC-Gated Alarm System for iOS</b></summary>
+
+<br/>
+
+An alarm app you cannot snooze from bed. TapOut fires a continuous chain of alarms that only stops when you physically scan an NFC tag placed across the room — and the emergency override is deliberately hard to reach, rate-limited, and tamper-resistant.
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | `Swift 6` · `SwiftUI` · `AlarmKit` · `SwiftData` · `App Intents` · `Keychain Services` · `NFC / Shortcuts` · `XcodeGen` |
+| **Scale** | Schedules up to **720 chained alarms** per wake event — 5-second intervals across a 60-minute hard-stop window — committed upfront in a single batch |
+| **Performance** | Full chain scheduled ahead of time rather than incrementally, removing any dependency on background refresh tasks · dismissal cancels every chain member at once · built under `SWIFT_STRICT_CONCURRENCY: complete` |
+| **Security** | Emergency-unlock ledger persisted to the iOS Keychain with `AfterFirstUnlockThisDeviceOnly` accessibility · monotonic timestamp validation rejects device clock rollback · hard cap of 3 overrides per rolling 7-day window |
+| **Impact** | Removes the snooze button as a structural option — the alarm has no in-bed dismissal path at all |
+| **Repository** | [github.com/KushKodiya/TapOut](https://github.com/KushKodiya/TapOut) |
+
+Every alarm app fails the same way: the dismiss button is reachable from bed. TapOut's answer is to make dismissal a physical act. An NTAG NFC tag written with a custom URL scheme sits on the bathroom mirror, and a Shortcuts automation deep-links into the app to cancel the chain — so the only route to silence is walking there. Under the hood the chain is a long sequence of AlarmKit alarms rather than a single repeating one, which means tapping "Stop" on the lock screen silences exactly one member and the next fires five seconds later. That behavior is intentional, not a bug.
+
+The harder problem was the emergency exit. A system with no override is unusable when you're travelling or the tag is gone, but an easy override defeats the entire product. I built a friction gate — a ten-second button hold, then typing a confirmation phrase, then selecting a reason — backed by a ledger in the Keychain that allows three overrides per rolling week. Because the obvious way to cheat a time-windowed limit is to roll the device clock backward, the ledger stores a monotonic high-water timestamp and refuses to consume an entry when it detects time moving in reverse.
 
 </details>
 
@@ -426,6 +453,7 @@ Early exposure to applied data science workflows — data preparation, explorato
 | **Published Mod — Nexus Mods** | Willy's Apprentice released publicly to the Stardew Valley modding community, combining a full item index, an LLM-powered RAG chatbot, and an autonomous fishing agent |
 | **Industry Research — Johnson & Johnson** | Selected for a data science research role building the oncology survivability modeling pipeline, from schema standardization through Cox Proportional Hazards validation |
 | **Autonomous Systems Research — Purdue** | Year-long research contribution to an autonomous racing kart program, owning GPS/IMU sensor fusion and real-time localization |
+| **Production-Grade Testing Discipline** | SleeperPredictor ships ~5,000 lines of tests behind a CI-enforced 80% coverage floor, with a golden-fixture canary that reproduces a full season of league scoring to 0.01 points |
 | **Native iOS on Emerging Frameworks** | Built TapOut against Apple's AlarmKit and Swift 6 strict concurrency, including a tamper-resistant Keychain ledger with clock-rollback detection |
 | **Academic Standing** | GPA **3.64/4.00** at Purdue University College of Science, with dual minors in Mathematics and Statistics |
 | **The Data Mine — Purdue** | Participant in Purdue's corporate-partnered applied data science program, working on industry-sponsored problems alongside coursework |
@@ -500,23 +528,23 @@ engineer:
 
 learning:
   - "Native iOS: SwiftUI, structured concurrency, and AlarmKit internals"
+  - "Variance reduction and simulation design under time budgets"
   - "Distributed systems design and service-level reliability practices"
   - "Advanced Kubernetes: workload scheduling, resource tuning, observability"
-  - "Deep learning foundations beyond classical ML pipelines"
   - "Production LLM systems: retrieval quality, evaluation, and grounding"
 
 building:
-  - "TapOut — NFC-gated alarm system on Swift 6 and AlarmKit"
+  - "SleeperPredictor — simulation-based fantasy draft decision engine"
   - "Willy's Apprentice — RAG chatbot and autonomous agent for Stardew Valley"
+  - "TapOut — NFC-gated alarm system on Swift 6 and AlarmKit"
   - "Job Scraper — automated internship discovery with Slack delivery"
   - "ChipCount — full stack poker settlement and session tracking"
-  - "Personal engineering portfolio at kushkodiya.com"
 
 exploring:
+  - "Monte Carlo methods and common random numbers for stable ranking"
+  - "Empirical-Bayes shrinkage and partially pooled hierarchical models"
   - "Sensor fusion and state estimation for autonomous navigation"
-  - "Survival analysis and high-dimensional statistical modeling"
   - "Tamper-resistant local storage and anti-rollback design"
-  - "Reinforcement learning with Gymnasium environments"
   - "Agentic AI tooling for debugging and defect tracing"
 
 open_to:
@@ -525,7 +553,7 @@ open_to:
   - "Full stack, backend, and iOS engineering work"
   - "Research collaborations and open-source contribution"
 
-ask_me_about: ["full stack development", "applied machine learning", "native iOS", "sensor fusion", "data pipelines"]
+ask_me_about: ["full stack development", "applied machine learning", "simulation design", "native iOS", "data pipelines"]
 ```
 
 ---
